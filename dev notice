@@ -1,0 +1,13 @@
+check files in frontend and code
+
+import './interfaces/INyanCakeERC20.sol';
+import './interfaces/INyanCakeFactory.sol';
+import './NyanCakePair.sol';
+import './interfaces/INyanCakePair.sol';
+import './NyanCakeERC20.sol';
+import './interfaces/INyanCakeFactory.sol';
+import './interfaces/INyanCakeCallee.sol';
+import '../NyanCakeERC20.sol';
+import NyanCakePair from '../build/NyanCakePair.json'
+import NyanCakeFactory from '../../build/NyanCakeFactory.json'
+import NyanCakePair from '../../build/NyanCakePair.json'
